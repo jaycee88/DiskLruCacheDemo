@@ -1,2 +1,3 @@
 # DiskLruCacheDemo
-Demo for DiskLruCache
+1. DiskLruCache
+2. HttpURLConnection
